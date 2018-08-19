@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-19T08:51:16.767Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java helloworld程序</title>
+    <link href="http://yoursite.com/2018/08/19/hello/"/>
+    <id>http://yoursite.com/2018/08/19/hello/</id>
+    <published>2018-08-19T07:52:09.000Z</published>
+    <updated>2018-08-19T08:51:16.767Z</updated>
+    
+    <content type="html"><![CDATA[<h1> </h1><h1 id="java入门程序"><a href="#java入门程序" class="headerlink" title="java入门程序"></a>java入门程序</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> class <span class="title">Main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"helloworld"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt; &lt;/h1&gt;
+
+&lt;h1 id=&quot;java入门程序&quot;&gt;&lt;a href=&quot;#java入门程序&quot; class=&quot;headerlink&quot; title=&quot;java入门程序&quot;&gt;&lt;/a&gt;java入门程序&lt;/h1&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table
+      
+    
+    </summary>
+    
+    
+      <category term="11" scheme="http://yoursite.com/tags/11/"/>
+    
+  </entry>
+  
+</feed>
